@@ -1,0 +1,7 @@
+.astro
+.vercel
+.vscode
+dist
+node_modules
+public
+package-lock.json
