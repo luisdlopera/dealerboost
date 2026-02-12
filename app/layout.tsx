@@ -21,6 +21,9 @@ export const metadata: Metadata = {
 	title: 'DealerBoost | Maximizamos tus ventas de carros',
 	description:
 		'Agencia de marketing digital especializada en ventas de autos. Generación de leads, embudos de venta y automatización.',
+	icons: {
+		icon: '/favicon.svg',
+	},
 };
 
 export default function RootLayout({
