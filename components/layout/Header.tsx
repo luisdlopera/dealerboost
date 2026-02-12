@@ -18,7 +18,11 @@ export const Header = () => {
 					href='/'
 					className='font-display pointer-events-auto relative z-50 flex items-center gap-3 text-2xl font-bold tracking-tighter uppercase'
 				>
-					<img src='/isotipo.svg' alt='DealerBoost Logo' className='h-8 w-8 object-contain' />
+					<img
+						src='/Isotipo.svg'
+						alt='DealerBoost Logo'
+						className='h-8 w-8 object-contain'
+					/>
 					<span>
 						DealerBoost<span className='text-primary'>.</span>
 					</span>
